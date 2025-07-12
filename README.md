@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Blake-Tron</h1>
+<h1 align="center">Hey there! 👋 I'm Blake</h1>
 
 <p align="center">
   🧠 Developer | ⚙️ Tinkerer | 🎮 Gamer<br>

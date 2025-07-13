@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on: LazyVim configs, Python projects, and Blender art
 - 🌱 Learning: Neovim, DSA, ML, and design workflows
 - 💡 Fun fact: I sometimes use Vim just to exit Vim
-- ⚡ Quote I live by: _“Make it work. Make it right. Make it fast.”_
+- ⚡ Quote I live by: _“If you wanna waste time, then waste is on learning something.”_
 
 ---
 

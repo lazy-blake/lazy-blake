@@ -36,7 +36,7 @@
 ### 📫 Connect With Me
 
 - 💬 Ask me about Vim, Python, or Blender
-- 🧵 [Twitter](https://twitter.com/YOUR_HANDLE)
+- 🧵 [Twitter](https://twitter.com/o_blake_x)
 - 🌐 [My Blog](https://zenthoughts.in) *(if you're ready to link it)*
 
 ---

@@ -44,8 +44,8 @@
 ### 🌱 My Projects
 
 - 💤 [LazyVim Config](https://github.com/blake-tron/lazyvim-config)
-- 🤖 [Mini Python Projects](https://github.com/blake-tron/python-mini-projects)
-- 🎨 [Blender Portfolio](https://github.com/blake-tron/blender-portfolio)
+- 🤖 [Mini Python Projects](https://github.com/lazy-blake/Mini-Python-Projects)
+- 🎨 [Blender Portfolio](https://github.com/lazy-blake/blender-portfolio)
 
 ---
 

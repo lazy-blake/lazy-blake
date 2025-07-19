@@ -19,7 +19,7 @@
 ### 🔧 Tools I Use
 
 <p>
-  <img src="https://skillicons.dev/icons?i=neovim,vim,pycharm,git,github,python,linux,blender,html,css" />
+  <img src="https://skillicons.dev/icons?i=neovim,vim,pycharm,git,github,python,lua,linux,blender,html,css" />
 </p>
 
 ---

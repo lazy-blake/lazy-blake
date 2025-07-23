@@ -35,7 +35,7 @@
 
 ### 🧰 Tech Toolbox
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=neovim,vim,pycharm,python,lua,git,github,linux,blender,html,css,markdown&perline=10" />
 </p>
 

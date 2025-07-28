@@ -26,7 +26,7 @@
 ### 🚀 About Me
 
 - 🔭 Currently building: LazyVim setups, Python automations, Blender renders
-- 🌱 Learning: Neovim plugins, DSA with Python, ML pipelines, design workflows
+- 🌱 Learning: Neovim, Python, Machine Learning, design workflows
 - 💬 Ask me about: LazyVim, Python, CLI setups, Blender character design
 - 💡 Fun Fact: Sometimes I open Vim just to exit Vim
 - ⚡ Motto: _“If you wanna waste time, then waste it on learning something.”_

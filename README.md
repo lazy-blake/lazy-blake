@@ -61,7 +61,7 @@
 | 💤 [LazyVim Config](https://github.com/lazy-blake/lazyvim-config) | My personalized Neovim setup using LazyVim — fast, powerful, and themed. |
 | 🤖 [Mini Python Projects](https://github.com/lazy-blake/Mini-Python-Projects) | A growing collection of Python projects — games, automation, and fun stuff! |
 | 🎨 [Blender Portfolio](https://github.com/lazy-blake/blender-portfolio) | Character models, environment designs, and more from my Blender journey. |
-| 💤 [Pomodoro Timer](https://github.com/lazy-blake/Pomodoro-Timer) | A fully functional Pomodoro Timer — inspired by the pomodoro technique by Francesco Cirillo . |
+| ⌚ [Pomodoro Timer](https://github.com/lazy-blake/Pomodoro-Timer) | A fully functional Pomodoro Timer — inspired by the pomodoro technique by Francesco Cirillo . |
 
 ---
 

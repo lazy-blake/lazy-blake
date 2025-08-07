@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Blake</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=F75C7E&width=600&lines=Developer+%7C+Tinkerer+%7C+Gamer;LazyVim+Enthusiast+%7C+Python+Builder;Learning+One+Bug+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=F75C7E&width=600&lines=Developer+%7C+Tinkerer+%7C+Gamer;NeoVim+Enthusiast+%7C+Python+Builder;Learning+One+Bug+at+a+Time" alt="Typing SVG" />
 </p>
 
 <p align="center">

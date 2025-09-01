@@ -92,6 +92,9 @@ When I'm not coding, you'll find me crafting 3D characters in Blender or gaming.
 ```lua
 -- My favorite keybinding
 vim.keymap.set('n', '<leader>ef', '<cmd>Telescope find_files<cr>')
+vim.keymap.set("n", "<C-e>", function()
+			harpoon.ui:toggle_quick_menu(harpoon:list())
+		end)
 ```
 
 **Tech:** `Lua` `Neovim` `LSP` `Treesitter`

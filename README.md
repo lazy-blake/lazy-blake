@@ -91,7 +91,7 @@ When I'm not coding, you'll find me crafting 3D characters in Blender or gaming.
 
 ```lua
 -- My favorite keybinding
-vim.keymap.set('n', '<leader>ff', '<cmd>Telescope find_files<cr>')
+vim.keymap.set('n', '<leader>ef', '<cmd>Telescope find_files<cr>')
 ```
 
 **Tech:** `Lua` `Neovim` `LSP` `Treesitter`
@@ -132,7 +132,6 @@ def organize_files(directory):
 
 **🎭 Showcase:**
 - Stylized character designs
-- Environment concepts
 - Animation experiments
 - Material & lighting studies
 
@@ -156,8 +155,8 @@ def create_character_rig():
 
 **⏰ Features:**
 - Customizable work/break intervals
-- Desktop notifications
-- Progress tracking
+- Desktop notifications (coming soon)
+- Progress tracking (coming soon)
 - Minimalist CLI interface
 
 ```python

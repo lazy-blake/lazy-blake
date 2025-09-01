@@ -21,8 +21,7 @@
 > **Updated:** *Last updated on commit*
 
 - 🔥 **Building:** Refining my Neovim LSP configurations for better Python development
-- 📚 **Learning:** Advanced Lua scripting for custom Neovim plugins
-- 🎨 **Creating:** Character rigging workflows in Blender for game assets  
+- 📚 **Learning:** Advanced Lua scripting for custom Neovim plugins and advanced pyhton 
 - 🤔 **Experimenting:** AI-powered code completion integration in my setup
 
 <div align="center">

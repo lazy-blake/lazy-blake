@@ -80,7 +80,7 @@ When I'm not coding, you'll find me crafting 3D characters in Blender or gaming.
 <tr>
 <td width="50%">
 
-### 💤 [Neovim Config](https://github.com/lazy-blake/neovim)
+### ⚡ [Neovim Config](https://github.com/lazy-blake/neovim)
 *My personalized Neovim setup with modern features*
 
 **⚡ Features:**

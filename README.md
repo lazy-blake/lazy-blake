@@ -20,9 +20,9 @@
 ## 🎯 This Week I'm...
 > **Updated:** *Last updated on commit*
 
-- 🔥 **Building:** Refining my Neovim LSP configurations for better Python development
-- 📚 **Learning:** Advanced Lua scripting for custom Neovim plugins and advanced pyhton 
-- 🤔 **Experimenting:** AI-powered code completion integration in my setup
+- 🔥 **Building:** Refining my Neovim LSP configurations, building a mcp server
+- 📚 **Learning:** Advanced python and the working of mcp servers 
+- 🤔 **Experimenting:** Trying to integrate mcp servers everywhere
 
 <div align="center">
 

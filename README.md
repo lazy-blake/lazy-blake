@@ -104,28 +104,28 @@ vim.keymap.set("n", "<C-e>", function()
 </td>
 <td width="50%">
 
-### 🤖 [Mini Python Projects](https://github.com/lazy-blake/Mini-Python-Projects)
-*A growing collection of Python automation & games*
+### 💻 [Terminal Blog](https://github.com/lazy-blake/Terminal-blog)
+*A retro-style terminal-themed blog website*
 
-**🎯 Highlights:**
-- File organization scripts
-- Web scraping utilities
-- Mini games & puzzles
-- CLI productivity tools
+**🖥️ Features:**
+- Authentic terminal aesthetics
+- Flask-powered backend
+- SQL database integration
+- Markdown blog post support
 
 ```python
-# Auto-organize downloads folder
-def organize_files(directory):
-    for file in os.listdir(directory):
-        # Smart file categorization logic
-        move_to_category_folder(file)
+@app.route('/blog/<post_id>')
+def show_post(post_id):
+    post = get_post_from_db(post_id)
+    return render_template('post.html', post=post)
 ```
 
-**Tech:** `Python` `Click` `BeautifulSoup` `Pygame`
+**Tech:** `Flask` `Python` `SQL` `HTML/CSS`
 
-[![Stars](https://img.shields.io/github/stars/lazy-blake/Mini-Python-Projects?style=for-the-badge&color=667eea)](https://github.com/lazy-blake/Mini-Python-Projects)
+[![Live Site](https://img.shields.io/badge/🌐_Live_Site-667eea?style=for-the-badge)](https://terminal-blog.onrender.com/)
 
 </td>
+
 </tr>
 <tr>
 <td width="50%">
@@ -153,25 +153,26 @@ def create_character_rig():
 </td>
 <td width="50%">
 
-### 💻 [Terminal Blog](https://github.com/lazy-blake/Terminal-blog)
-*A retro-style terminal-themed blog website*
+### 🤖 [Mini Python Projects](https://github.com/lazy-blake/Mini-Python-Projects)
+*A growing collection of Python automation & games*
 
-**🖥️ Features:**
-- Authentic terminal aesthetics
-- Flask-powered backend
-- SQL database integration
-- Markdown blog post support
+**🎯 Highlights:**
+- File organization scripts
+- Web scraping utilities
+- Mini games & puzzles
+- CLI productivity tools
 
 ```python
-@app.route('/blog/<post_id>')
-def show_post(post_id):
-    post = get_post_from_db(post_id)
-    return render_template('post.html', post=post)
+# Auto-organize downloads folder
+def organize_files(directory):
+    for file in os.listdir(directory):
+        # Smart file categorization logic
+        move_to_category_folder(file)
 ```
 
-**Tech:** `Flask` `Python` `SQL` `HTML/CSS`
+**Tech:** `Python` `Click` `BeautifulSoup` `Pygame`
 
-[![Live Site](https://img.shields.io/badge/🌐_Live_Site-667eea?style=for-the-badge)](https://terminal-blog.onrender.com/)
+[![Stars](https://img.shields.io/github/stars/lazy-blake/Mini-Python-Projects?style=for-the-badge&color=667eea)](https://github.com/lazy-blake/Mini-Python-Projects)
 
 </td>
 </tr>

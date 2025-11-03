@@ -153,25 +153,25 @@ def create_character_rig():
 </td>
 <td width="50%">
 
-### ⌚ [Pomodoro Timer](https://github.com/lazy-blake/Pomodoro-Timer)
-*Productivity timer with the Pomodoro Technique*
+### 💻 [Terminal Blog](https://github.com/lazy-blake/Terminal-blog)
+*A retro-style terminal-themed blog website*
 
-**⏰ Features:**
-- Customizable work/break intervals
-- Desktop notifications (coming soon)
-- Progress tracking (coming soon)
-- Minimalist CLI interface
+**🖥️ Features:**
+- Authentic terminal aesthetics
+- Flask-powered backend
+- SQL database integration
+- Markdown blog post support
 
 ```python
-class PomodoroTimer:
-    def __init__(self, work_time=25, break_time=5):
-        self.work_time = work_time * 60
-        self.break_time = break_time * 60
+@app.route('/blog/<post_id>')
+def show_post(post_id):
+    post = get_post_from_db(post_id)
+    return render_template('post.html', post=post)
 ```
 
-**Tech:** `Python` `Tkinter` `Threading` `Notifications`
+**Tech:** `Flask` `Python` `SQL` `HTML/CSS`
 
-[![Download](https://img.shields.io/badge/⬇️_Download-667eea?style=for-the-badge)](https://github.com/lazy-blake/Pomodoro-Timer)
+[![Live Site](https://img.shields.io/badge/🌐_Live_Site-667eea?style=for-the-badge)](https://terminal-blog.onrender.com/)
 
 </td>
 </tr>

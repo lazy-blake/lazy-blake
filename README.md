@@ -225,7 +225,7 @@ I'm always excited to connect with fellow developers, makers, and learners! Whet
 
 <div align="center">
 
-[![Blog](https://img.shields.io/badge/📬_ZenThoughts.in-667eea?style=for-the-badge&logo=hashnode&logoColor=white)](https://zenthoughts.in)
+[![Blog](https://img.shields.io/badge/📬_Terminal_Blog-667eea?style=for-the-badge&logo=hashnode&logoColor=white)](https://terminal-blog.onrender.com/)
 [![Twitter](https://img.shields.io/badge/🐦_@o_blake_x-764ba2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/o_blake_x)
 [![GitHub](https://img.shields.io/badge/🛠️_@lazy--blake-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lazy-blake)
 

@@ -11,7 +11,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/lazy-blake?label=Follower&style=for-the-badge&color=667eea&labelColor=764ba2)](https://github.com/lazy-blake)
 [![Twitter Follow](https://img.shields.io/twitter/follow/o_blake_x?style=for-the-badge&color=667eea&labelColor=764ba2)](https://twitter.com/o_blake_x)
-[![Blog](https://img.shields.io/badge/My%20Blog-ZenThoughts.in-667eea?style=for-the-badge&logo=hashnode&labelColor=764ba2)](https://zenthoughts.in)
+[![Blog](https://img.shields.io/badge/My%20Blog-Terminal_Blog-667eea?style=for-the-badge&logo=hashnode&labelColor=764ba2)](https://terminal-blog.onrender.com/)
 
 </div>
 
